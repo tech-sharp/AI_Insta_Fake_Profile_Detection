@@ -74,4 +74,4 @@ print("Validation Accuracy : ", get_avg(model_training_progress['Validation_Accu
 print("Loss : ", get_avg(model_training_progress['Loss']) * 100)
 
 
-print("Validation Loss : ", get_avg(model_training_progress['Validation Loss']) * 100)
+print("Validation Loss : ", get_avg(model_training_progress['Validation Loss']) * 100)
